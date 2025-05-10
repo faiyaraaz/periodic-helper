@@ -8,13 +8,13 @@ Program ini **dapat dijalankan langsung secara online** tanpa instalasi, menggun
 
 Klik link di bawah untuk menjalankan langsung program ini di browser:
 
-🔗 [Buka di OnlineGDB](https://www.onlinegdb.com/online_c++_compiler)  
+🔗 [Buka di OnlineGDB] 
 *(https://onlinegdb.com/SUYGgbxgn)*
 
 ---
 
 ## Fitur
 
-- 🔢 Cari nama unsur dari nomor atom (misal: `8` → Oksigen).
-- ⚖️ Hitung massa relatif dari senyawa kimia (misal: `H2SO4`, `NaCl`).
+- Cari nama unsur dari nomor atom (misal: `8` → Oksigen).
+- Hitung massa relatif dari senyawa kimia (misal: `H2SO4`, `NaCl`).
 
