@@ -18,3 +18,4 @@ Klik link di bawah untuk menjalankan langsung program ini di browser:
 - Cari nama unsur dari nomor atom (misal: `8` → Oksigen).
 - Hitung massa relatif dari senyawa kimia (misal: `H2SO4`, `NaCl`).
 
+## Thank you for seeing !
